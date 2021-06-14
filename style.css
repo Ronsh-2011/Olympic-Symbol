@@ -1,0 +1,14 @@
+h1
+{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+}
+.body_backgorund {
+    background-color: seagreen;
+}
+
+#myCanvas{
+background-color: whitesmoke;
+border-width: 10px ;
+border-style: ridge ;
+}
